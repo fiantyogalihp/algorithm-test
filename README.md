@@ -66,10 +66,12 @@ Total Region: 34
 
 <code>❯ Test 04 Format:</code>
 ```sh
+...
 Papua 705136
 Riau 610829
 Riau Islands 1232662
 South Kalimantan 800053
+...
 ```
 
 ---
