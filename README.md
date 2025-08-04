@@ -41,6 +41,7 @@
 ## 👾 Rules
 
 <code>❯ No AI</code>
+
 <code>❯ Test 01 Format:</code>
 ```sh
 ...
